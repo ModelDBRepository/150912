@@ -1,0 +1,655 @@
+Starting Genesis
+Executable:         /home/neuroware/chemesis2.3//chemesis
+The kinetics library is copylefted under the LGPL, see kinetics/COPYRIGHT.
+
+Startup script:     /home/rebekah/.simrc
+SIMPATH=. /home/neuroware/genesis-2.3/genesis/startup /home/neuroware/genesis-2.3/genesis/Scripts/neurokit /home/neuroware/genesis-2.3/genesis/Scripts/neurokit/prototypes
+SIMPATH=. /home/neuroware/genesis-2.3/genesis/startup /home/neuroware/genesis-2.3/genesis/Scripts/neurokit /home/neuroware/genesis-2.3/genesis/Scripts/neurokit/prototypes /home/neuroware/genesis-2.3/genesis/Scripts/X1compat
+SIMNOTES=/home/rebekah/.notes
+GENESIS_HELP=/home/neuroware/genesis-2.3/genesis/Doc
+Simulation Script:  MSsimSyn3.g
+changing clock [0] from 1 to 5e-06
+/cell
+COMPARTMENT DID NOT EXIST PRIOR TO CALL TO:
+make_cylind_compartment
+Make naF, qfactor= 1
+Make naF, qfactor= 1
+make kA, qfactor= 3
+CaL12 increment: 5e-05 V
+CDIincrement: 1.666666667e-06
+CaL13 increment: 5e-05 V
+CDIincrement: 1.666666667e-06
+CaN increment: 5e-05 V
+CDIincrement: 1.666666667e-06
+CaR increment: 5e-05 V
+CDIincrement: 1.666666667e-06
+CaT increment: 5e-05 V
+delta=, 2e-06
+MScell/MScelltapershortCM3noproto.p read: 189 compartments, 0 channels, 0 shells, 1 others
+time = 0.000000 ; step = 0          
+soma=8.5e-07
+soma=1.229591527
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+/cell/soma shell_vol= 7.99220492e-17 + 1.599999996e-05
+shell_dia=1.579999996e-05
+dia= 1.599999996e-05
+surface area= 8.04247036e-10
+/cell/soma shell_vol= 7.99220492e-17 + 1.599999996e-05
+shell_dia=1.579999996e-05
+dia= 1.599999996e-05
+surface area= 8.04247036e-10
+/cell/soma shell_vol= 7.99220492e-17 + 1.599999996e-05
+shell_dia=1.579999996e-05
+dia= 1.599999996e-05
+surface area= 8.04247036e-10
+/cell/soma shell_vol= 7.99220492e-17 + 1.599999996e-05
+shell_dia=1.579999996e-05
+dia= 1.599999996e-05
+surface area= 8.04247036e-10
+finished adding calcium
+add VGCC
+add KCa
+XXXXXXXXXXXXXXX make_NMDA_channel XXXXXXXXXXXXXXXX
+chanpath = NR2A
+caBuffer = 0
+KMg = 18
+tau2 = 0.05625
+gmax = 4.7e-10
+XXXXXXXXXXXXXXX make_NMDA_channel XXXXXXXXXXXXXXXX
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+Syn3NaFdR34noAPgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 33.623889 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.150913 cpu seconds
+time = 0.260010 ; step = 52002          
+completed 40001 steps in 141.113548 cpu seconds
+time = 0.350015 ; step = 70003          
+completed 18001 steps in 63.474350 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40001 steps in 133.429716 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US5grad.g> line 8
+... <MSsimSyn3.g> line 55
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR345APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 32.798014 cpu seconds
+time = 0.055005 ; step = 11001          
+completed 1000 steps in 3.534462 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 1000 steps in 3.863413 cpu seconds
+time = 0.060010 ; step = 12002          
+completed 1 steps in 0.003999 cpu seconds
+time = 0.260015 ; step = 52003          
+completed 40001 steps in 143.318213 cpu seconds
+time = 0.350020 ; step = 70004          
+completed 18001 steps in 64.790150 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40000 steps in 134.959483 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US10grad.g> line 8
+... <MSsimSyn3.g> line 57
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR3410APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 34.344778 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.378878 cpu seconds
+time = 0.065010 ; step = 13002          
+completed 1001 steps in 3.937402 cpu seconds
+time = 0.260010 ; step = 52002          
+completed 39000 steps in 142.724302 cpu seconds
+time = 0.350015 ; step = 70003          
+completed 18001 steps in 65.878985 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40001 steps in 139.113852 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US20grad.g> line 8
+... <MSsimSyn3.g> line 59
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR3420APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 34.409769 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.374879 cpu seconds
+time = 0.070010 ; step = 14002          
+completed 2001 steps in 7.332886 cpu seconds
+time = 0.075010 ; step = 15002          
+completed 1000 steps in 3.837416 cpu seconds
+time = 0.260015 ; step = 52003          
+completed 37001 steps in 135.612384 cpu seconds
+time = 0.350020 ; step = 70004          
+completed 18001 steps in 65.895982 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40000 steps in 139.316820 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US30grad.g> line 7
+... <MSsimSyn3.g> line 61
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR3430APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 34.505754 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.403874 cpu seconds
+time = 0.080010 ; step = 16002          
+completed 4001 steps in 14.715763 cpu seconds
+time = 0.085010 ; step = 17002          
+completed 1000 steps in 3.815420 cpu seconds
+time = 0.260010 ; step = 52002          
+completed 35000 steps in 128.660441 cpu seconds
+time = 0.350015 ; step = 70003          
+completed 18001 steps in 66.166941 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40001 steps in 139.522789 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US50grad.g> line 8
+... <MSsimSyn3.g> line 63
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR3450APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 34.213798 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.390876 cpu seconds
+time = 0.100010 ; step = 20002          
+completed 8001 steps in 29.538510 cpu seconds
+time = 0.105015 ; step = 21003          
+completed 1001 steps in 3.796423 cpu seconds
+time = 0.260020 ; step = 52004          
+completed 31001 steps in 113.634725 cpu seconds
+time = 0.350020 ; step = 70004          
+completed 18000 steps in 63.920283 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40000 steps in 134.616535 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US100grad.g> line 7
+... <MSsimSyn3.g> line 65
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR34100APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 33.181956 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.143914 cpu seconds
+time = 0.150010 ; step = 30002          
+completed 18001 steps in 64.030266 cpu seconds
+time = 0.155015 ; step = 31003          
+completed 1001 steps in 3.819419 cpu seconds
+time = 0.260020 ; step = 52004          
+completed 21001 steps in 77.069284 cpu seconds
+time = 0.350020 ; step = 70004          
+completed 18000 steps in 66.075955 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40000 steps in 137.755058 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US175grad.g> line 8
+... <MSsimSyn3.g> line 67
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR34175APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 33.217950 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.152913 cpu seconds
+time = 0.225010 ; step = 45002          
+completed 33001 steps in 117.141191 cpu seconds
+time = 0.230010 ; step = 46002          
+completed 1000 steps in 3.699438 cpu seconds
+time = 0.260015 ; step = 52003          
+completed 6001 steps in 21.540725 cpu seconds
+time = 0.350020 ; step = 70004          
+completed 18001 steps in 64.195241 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40000 steps in 133.843653 cpu seconds
+<RebekahSims/add_outputPools.g> line 4
+... <RebekahSims/US290grad.g> line 7
+... <MSsimSyn3.g> line 69
+* Warning - overwriting an existing element '/output/plot_out'
+Syn3NaFdR34290APgradspke4ra.txt
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.000000 ; step = 0          
+time = 0.050005 ; step = 10001          
+completed 10001 steps in 33.947839 cpu seconds
+time = 0.060005 ; step = 12001          
+completed 2000 steps in 7.372879 cpu seconds
+time = 0.260010 ; step = 52002          
+completed 40001 steps in 140.993566 cpu seconds
+time = 0.340015 ; step = 68003          
+completed 16001 steps in 58.806060 cpu seconds
+time = 0.345015 ; step = 69003          
+completed 1000 steps in 3.810421 cpu seconds
+time = 0.350015 ; step = 70003          
+completed 1000 steps in 3.751429 cpu seconds
+time = 0.550020 ; step = 110004          
+completed 40001 steps in 140.052708 cpu seconds

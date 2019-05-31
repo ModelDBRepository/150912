@@ -1,0 +1,9 @@
+11.003 README
+
+like 11.001
+
+tuned to include NaF slow inactivation (20ms tau) in dendrites.  
+this can be switched out for CDI with a comparable AP timing during the upstate effect
+when measured by the volavg object.
+08/14/12 RCE
+
